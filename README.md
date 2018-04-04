@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+<iframe src="https://cdn.rawgit.com/arytwins/test2/master/nyc_map1.html"></iframe>
+
 [Link](https://cdn.rawgit.com/arytwins/test2/master/nyc_map1.html) and ![Image](src)
 ```
 
